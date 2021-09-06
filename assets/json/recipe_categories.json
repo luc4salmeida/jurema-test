@@ -1,0 +1,28 @@
+{
+    "categories": [
+        {
+            "name": "Doces",
+            "ammount": 10
+        },
+        {
+            "name": "Macarrões",
+            "ammount": 30
+        },
+        {
+            "name": "Entradas",
+            "ammount": 10
+        },
+        {
+            "name": "Peixes",
+            "ammount": 30
+        },
+        {
+            "name": "Assados",
+            "ammount": 10
+        },
+        {
+            "name": "Churrasco",
+            "ammount": 30
+        }
+    ]
+}

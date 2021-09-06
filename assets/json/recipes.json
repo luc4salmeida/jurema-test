@@ -1,0 +1,99 @@
+{
+        "Doces": [
+            {
+                "name": "Brigadeiro",
+                "time": "120",
+                "ingredients": []
+            },
+            {
+                "name": "Doce de Leite",
+                "time": "80",
+                "ingredients": []
+            },
+            {
+                "name": "Pudim",
+                "time": "60",
+                "ingredients": []
+            }
+        ],
+        "Macarrões": [
+            {
+                "name": "Bolonhesa",
+                "time": "140",
+                "ingredients": []
+            },
+            {
+                "name": "Ao Alho",
+                "time": "100",
+                "ingredients": []
+            },
+            {
+                "name": "Ao molho branco",
+                "time": "60",
+                "ingredients": []
+            }
+        ],
+        "Entradas": [
+            {
+                "name": "Pão de alho",
+                "time": "60",
+                "ingredients": []
+            },
+            {
+                "name": "Tabua de frios",
+                "time": "30",
+                "ingredients": []
+            }
+        ],
+        "Peixes": [
+            {
+                "name": "Peixe Frito",
+                "time": "80",
+                "ingredients": []
+            },
+            {
+                "name": "Molho de Peixe",
+                "time": "70",
+                "ingredients": []
+            },
+            {
+                "name": "Peixe Assado",
+                "time": "30",
+                "ingredients": []
+            }
+        ],
+        "Assados": [
+            {
+                "name": "Bolo de  Chocolate",
+                "time": "20",
+                "ingredients": []
+            },
+            {
+                "name": "Peixe Assado",
+                "time": "40",
+                "ingredients": []
+            },
+            {
+                "name": "Lasanha",
+                "time": "60",
+                "ingredients": []
+            }
+        ],
+        "Churrasco": [
+            {
+                "name": "Cupim ao molho BBQ",
+                "time": "30",
+                "ingredients": []
+            },
+            {
+                "name": "Alcatra no jeito",
+                "time": "40",
+                "ingredients": []
+            },
+            {
+                "name": "Molho para churrasco",
+                "time": "50",
+                "ingredients": []
+            }
+        ]
+}
